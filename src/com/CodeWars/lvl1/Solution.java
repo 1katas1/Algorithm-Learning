@@ -12,6 +12,6 @@ public class Solution {
         System.out.println(result);
     }
     static String toCamelCase(String s){
-        return "";
+        return "АНДРЕЙ ЛОХ";
     }
 }
